@@ -1,6 +1,0 @@
-"collection_id"	"dataset_id"	"collection_title"	"promoted_subjectkey"
-"collection_id"	"dataset_id"	"collection_title"	"promoted_subjectkey"
-"9"	"8924"	"Biomarkers of Autism at 12 Months: From Brain Overgrowth to Genes"	"NDARAD604YHN"
-"9"	"8924"	"Biomarkers of Autism at 12 Months: From Brain Overgrowth to Genes"	"NDARDF922YW7"
-"9"	"8924"	"Biomarkers of Autism at 12 Months: From Brain Overgrowth to Genes"	"NDARPW642MZG"
-"9"	"8924"	"Biomarkers of Autism at 12 Months: From Brain Overgrowth to Genes"	"NDARLE037LEU"
