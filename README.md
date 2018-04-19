@@ -1,6 +1,6 @@
 # EARLY AUTISM DETECTION
 
-** Steps **
+## Steps 
 
 1. Find Data: 2566 studies founded
 2. First Filter: Review studies relevance: 12 studies
