@@ -10,3 +10,5 @@
     * Remove duplicate columns
     * Parse the columns name (features): All in lower case and removing special characters.
 5. Merge the 9 studies.
+    * Standardization of the diagnosis format (y values)
+    * 
